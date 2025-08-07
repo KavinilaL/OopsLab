@@ -27,5 +27,6 @@ public class Main {
 
         System.out.println("\nParcel 2 Info:");
         parcel2.displayParcelInfo();
+        
     }
 }
